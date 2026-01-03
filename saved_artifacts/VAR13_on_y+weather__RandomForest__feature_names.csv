@@ -1,0 +1,46 @@
+feature
+Hour
+Temperature(°C)
+Humidity(%)
+Wind speed (m/s)
+Visibility (10m)
+Dew point temperature(°C)
+Solar Radiation (MJ/m2)
+Rainfall(mm)
+Snowfall (cm)
+Day
+Month
+Year
+Rented Bike Count_lag_1
+Rented Bike Count_lag_2
+Rented Bike Count_lag_3
+Temperature(°C)_lag_1
+Temperature(°C)_lag_2
+Temperature(°C)_lag_3
+Humidity(%)_lag_1
+Humidity(%)_lag_2
+Humidity(%)_lag_3
+Solar Radiation (MJ/m2)_lag_1
+Solar Radiation (MJ/m2)_lag_2
+Solar Radiation (MJ/m2)_lag_3
+Rainfall(mm)_lag_1
+Rainfall(mm)_lag_2
+Rainfall(mm)_lag_3
+Wind speed (m/s)_lag_1
+Wind speed (m/s)_lag_2
+Wind speed (m/s)_lag_3
+Seasons_Autumn
+Seasons_Spring
+Seasons_Summer
+Seasons_Winter
+Holiday_Holiday
+Holiday_No Holiday
+day_of_week_0
+day_of_week_1
+day_of_week_2
+day_of_week_3
+day_of_week_4
+day_of_week_5
+day_of_week_6
+is_weekend_0
+is_weekend_1

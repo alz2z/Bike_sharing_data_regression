@@ -1,0 +1,32 @@
+feature
+Hour
+Temperature(°C)
+Humidity(%)
+Wind speed (m/s)
+Visibility (10m)
+Dew point temperature(°C)
+Solar Radiation (MJ/m2)
+Rainfall(mm)
+Snowfall (cm)
+Day
+Month
+Year
+Rented_lag_24
+Rented_lag_48
+Rented_lag_72
+Rented_lag_168
+Seasons_Autumn
+Seasons_Spring
+Seasons_Summer
+Seasons_Winter
+Holiday_Holiday
+Holiday_No Holiday
+day_of_week_0
+day_of_week_1
+day_of_week_2
+day_of_week_3
+day_of_week_4
+day_of_week_5
+day_of_week_6
+is_weekend_0
+is_weekend_1
